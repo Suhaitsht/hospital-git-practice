@@ -9,7 +9,7 @@ const doctor = {
   name: "Dr. Ahmed",
   speciality: "Cardiology",
   fee: 4500,
-  available: true,
+  available: false,
 };
 
 console.log("Hospital Name:", hospital.name);
