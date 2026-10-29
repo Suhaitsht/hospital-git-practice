@@ -8,7 +8,7 @@ const doctor = {
   id: 101,
   name: "Dr. Ahmed",
   speciality: "Cardiology",
-  fee: 3500,
+  fee: 4500,
   available: true,
 };
 
