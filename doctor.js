@@ -6,7 +6,7 @@ function addDoctor(name, speciality, fee) {
     name,
     speciality,
     fee,
-    available: true,
+    available: false,
   };
 
   doctors.push(newDoctor);
