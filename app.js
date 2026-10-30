@@ -19,3 +19,13 @@ console.log("Consultation Fee:", doctor.fee);
 console.log("Available:", doctor.available);
 console.log("Location:", hospital.location);
 console.log("Total Doctors:", hospital.doctors);
+
+const appointment = {
+  id: 1001,
+  patientName: "Nimal",
+  doctorName: "Dr. Ahmed",
+  appointmentDate: "2026-11-10",
+  status: "Pending",
+};
+
+console.log("Appointment Details:", appointment);
